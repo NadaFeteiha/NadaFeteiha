@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nada</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadafeteiha&label=Profile%20views&color=0e75b6&style=flat" alt="nadafeteiha" /> </p>
-
-<p align="center">
-
-</p>
-
 <p align="center">  
  <a href="https://www.linkedin.com/in/nada-feteiha/">
     <img alt="Nada Feteiha's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -21,18 +15,14 @@
    <a href="https://twitter.com/NadaFeteiha">
     <img alt="Nada Feteiha's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
+</p> 
 
+- 🌱 I’m currently learning **Swift, Problem solving and testing**
 
-</p>
-<br />
-
-- 🌱 I’m currently learning **(Jetpack) Compose and testing**
-
-- 💬 Ask me about **Android, Kotlin and Compose**
+- 💬 Ask me about **Android, KMP, Kotlin and Compose**
 
 - 📫 How to reach me **nada.feteiha@gmail.com**
 
-- ⚡ Fun fact **I like horror movies and enjoy watching flowers and clouds.**
 
 ### My Articals
 - [Grammatical Inflection](https://medium.com/@nada.feteiha/grammatical-inflection-for-the-arabic-language-289f04667324)

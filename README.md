@@ -17,14 +17,6 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NadaFeteiha/NadaFeteiha/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NadaFeteiha/NadaFeteiha/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://github.com/NadaFeteiha/NadaFeteiha/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
----
-
 ## 🐢 `$ whoami`
 
 > *Engineer by craft. Learner by nature. Builder by obsession.*
@@ -152,6 +144,14 @@ I'm **Nada** — I went from shipping *Android apps used by real people* — to 
 ✅  Advanced Android Kotlin Development  —  Udacity             [2022]
 ✅  Android Development                  —  Google Africa Dev   [2022]
 ```
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NadaFeteiha/NadaFeteiha/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NadaFeteiha/NadaFeteiha/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://github.com/NadaFeteiha/NadaFeteiha/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
